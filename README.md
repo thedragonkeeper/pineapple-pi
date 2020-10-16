@@ -59,3 +59,12 @@ packages to install:
 ```
     172.69.69.1 mk7
 ```
+3. edit /etc/ssh/sshd_config
+```
+ListenAddress 0.0.0.0
+PermitRootLogin yes
+TCPKeepAlive yes
+```
+
+
+
