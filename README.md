@@ -7,6 +7,7 @@ adds a rpi0 to mk7 pineapple
 3. cut the usb cable from a usb hub and solder the wires to the bottom side of the mk7s usb; making the hub permanent part of the mk7
 4. remove the connector for the hubs power cable and attach the positive and negative wires to the correct pins remaining within the mk7s usb port
 5. 3d print a new case to hold the new parts, an stl is provided in this repo which allows enough clearance for my hub (without extra clearance, will cause mk7 to feel alot warmer than normal)
+6. either power the mk7 and hub seperately  OR  create a Y cable to provide power for both usbc and usb a, this is a judgement call based on rated power for your hub and additional devices added to the hub.
 
 # Manual setup
 
